@@ -1,0 +1,2 @@
+wrapt==1.12.1
+ftrack-python-api==2.3.2
